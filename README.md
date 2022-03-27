@@ -1,0 +1,1 @@
+Prototipo de función
